@@ -60,10 +60,10 @@ The goal of this project is to discover sales trends, profit patterns, customer 
 ![Monthly Sales](visuals/monthly_sales.png)
 
 ### Correlation Heatmap
-![Heatmap](visuals/heatmap.png)
+![Heatmap](visuals/correlation_heatmap.png)
 
 ### Top 10 Customers by Sales
-![Top Customers](visuals/top_customers.png)
+![Top Customers](visuals/top_10_customers_by_sales.png)
 
 ---
 
