@@ -16,6 +16,7 @@ The goal of this project is to discover sales trends, profit patterns, customer 
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
+- Power BI
 
 ---
 
@@ -67,9 +68,27 @@ The goal of this project is to discover sales trends, profit patterns, customer 
 
 ---
 
+## Power BI Dashboard
+
+This project also includes an interactive Power BI dashboard for business visualization and analysis.
+
+### Dashboard Features
+- KPI Cards (Sales, Profit, Orders)
+- Sales by Category
+- Profit by Category
+- Monthly Sales Trend
+- Regional Sales Contribution
+- Top 10 Customers Analysis
+- Interactive Region Filter (Slicer)
+
+### Dashboard Preview
+
+![Dashboard](visuals/dashboard.png)
+
+ ---
+
 ## Future Improvements
 
-- Build interactive Power BI dashboard
 - Add SQL-based business queries
 - Create advanced visual dashboards
 - Perform predictive analytics
